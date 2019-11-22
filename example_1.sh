@@ -15,7 +15,7 @@ function print_tips
 
 function len_of_string
 {
-	echo "${#string}"
+	echo "${#string}" #字符串的长度=${#字符串}
 }
 
 
